@@ -33,7 +33,7 @@ SET time_zone = "+00:00";
  **/;
  /* --------------------------------------------------------
  
--- Database: `insti_db`
+-- Database: `campus`
 --
 -- Table structure for table `institutions`
 --
