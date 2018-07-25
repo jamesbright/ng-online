@@ -1,0 +1,25 @@
+.view-tables{
+  color:WhiteSmoke;
+  }
+.view-table{
+  border-width:0.5em;
+  border-style:ridge;
+  border-color:#2BB89A;
+}
+.view-table th {
+  color:#2BB89A;
+  font-size:15px;
+  font-family:monospace;
+ }
+
+
+.view-table td {
+  background-color:#212B4B;
+  font-family:sans-serif;
+  font-size:13px;
+  }
+  .custom{
+	 background:#212B4B !important;
+	color:#2BB89A;
+	font-weight:bold;
+  }
