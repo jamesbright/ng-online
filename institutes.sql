@@ -26,8 +26,8 @@ SET time_zone = "+00:00";
 
 /**
 
- this script and every other scripts related to it is given AS IS without warranties of any kind. 
- **you are free to use this script as you agree to give credits to the author.
+ If you have additions that you think needs to be added, feel free to make a pull request and add your contribution.
+
  *******Best Regards*******
  
  **/;
